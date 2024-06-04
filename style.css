@@ -131,10 +131,13 @@ footer p{
         vertical-align: middle;
         margin-bottom: 30px;
     }
-.banner p{
-    font-size: 25px;
-    padding-left: 50px;
-    padding-right: 50px;
-    text-align: center;
+    .banner p{
+        font-size: 25px;
+        padding-left: 50px;
+        padding-right: 50px;
+        text-align: center;
+}   
+.header img{
+    width: 200px;
 }
 }
